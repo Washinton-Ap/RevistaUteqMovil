@@ -5,11 +5,8 @@ Aplicación móvil Android nativa que consume los web services del sistema de re
 ---
 
 ## 🖼️ Capturas del proyecto
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-12 at 4 47 03 PM 11" src="https://github.com/user-attachments/assets/08a626e4-aa17-4fb8-a277-fbf6bb827b76" />
 
-| Paso 1 — Revistas | Paso 2 — Volúmenes (CyT) | Paso 2 — Volúmenes (CSYE) | Paso 2 — Volúmenes (InGenio) |
-|:-----------------:|:------------------------:|:-------------------------:|:----------------------------:|
-| ![Revistas Científicas](<img width="720" height="1600" alt="WhatsApp Image 2026-06-12 at 4 47 03 PM 11" src="https://github.com/user-attachments/assets/d3629e4c-3b27-4677-b31c-f4f6add673e6" />
-) | ![Ciencia y Tecnología](screenshots/paso2_volumenes_cyt.png) | ![CSYE](screenshots/paso2_volumenes_csye.png) | ![InGenio](screenshots/paso2_volumenes_ingenio.png) |
 
 ---
 
