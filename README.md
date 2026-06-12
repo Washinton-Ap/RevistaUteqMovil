@@ -1,4 +1,4 @@
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/06d89667-f00c-4a17-bf4c-9914625b00b0" /># 📱 Revista UTEQ Móvil
+#📱 Revista UTEQ Móvil
 
 Aplicación móvil Android nativa que consume los web services del sistema de revistas científicas OJS de la Universidad Técnica Estatal de Quevedo (UTEQ), permitiendo navegar por las revistas, sus volúmenes y los artículos publicados.
 
