@@ -5,8 +5,13 @@ Aplicación móvil Android nativa que consume los web services del sistema de re
 ---
 
 ## 🖼️ Capturas del proyecto
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-12 at 4 47 03 PM 11" src="https://github.com/user-attachments/assets/08a626e4-aa17-4fb8-a277-fbf6bb827b76" />
+<img width="320" height="800" alt="WhatsApp Image 2026-06-12 at 4 47 03 PM 11" src="https://github.com/user-attachments/assets/08a626e4-aa17-4fb8-a277-fbf6bb827b76" />
 
+<img width="320" height="800" alt="image" src="https://github.com/user-attachments/assets/72651b5a-1408-4bea-b1d3-63832ee395d7" />
+
+<img width="320" height="800" alt="image" src="https://github.com/user-attachments/assets/910d6a74-0077-4530-9507-39a572411942" />
+
+<img width="320" height="800" alt="image" src="https://github.com/user-attachments/assets/462c572e-d020-4c6a-9201-cf4642eaa125" />
 
 ---
 
