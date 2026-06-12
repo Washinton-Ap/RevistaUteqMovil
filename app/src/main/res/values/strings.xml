@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OJS UTEQ</string>
+
+    <!-- Títulos de sección -->
+    <string name="titulo_revistas">Revistas Científicas</string>
+    <string name="titulo_volumenes">Volúmenes</string>
+    <string name="titulo_articulos">Artículos</string>
+
+    <!-- Estados -->
+    <string name="sin_datos">No se encontraron datos.\nVerifique su conexión a Internet.</string>
+
+    <!-- Pie de página -->
+    <string name="footer">UTEQ © 2025</string>
+
+    <!-- Contenido -->
+    <string name="desc_logo">Logo UTEQ</string>
+    <string name="desc_portada">Portada</string>
+</resources>

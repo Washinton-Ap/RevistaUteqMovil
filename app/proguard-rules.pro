@@ -1,0 +1,1 @@
+-keep class ec.edu.uteq.ojsuteq.model.** { *; }

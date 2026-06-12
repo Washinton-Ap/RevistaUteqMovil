@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_uteq"
+        android:roundIcon="@drawable/logo_uteq"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OJSUteq"
+        android:usesCleartextTraffic="false">
+
+        <!-- Paso 1: lista de revistas -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/titulo_revistas">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Paso 2: lista de volúmenes -->
+        <activity
+            android:name=".IssuesActivity"
+            android:exported="false"
+            android:label="@string/titulo_volumenes" />
+
+        <!-- Paso 3: lista de artículos -->
+        <activity
+            android:name=".PubsActivity"
+            android:exported="false"
+            android:label="@string/titulo_articulos" />
+
+    </application>
+
+</manifest>
